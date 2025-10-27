@@ -1,0 +1,42 @@
+
+DRIVING REPORT - 2025-10-08 14:28:17
+================================================================
+
+TRIP OVERVIEW
+-------------
+• Total Distance: 17.47 km
+• Trip Duration: 43.9 minutes
+• Total Data Points: 2636
+
+SPEED ANALYSIS
+--------------
+• Average Speed: 14.7 km/h
+• Maximum Speed: 41.7 km/h
+• Minimum Speed: 0.0 km/h
+• Median Speed: 14.8 km/h
+
+DRIVING BEHAVIOR
+----------------
+• Hard Braking Events: 16
+• Hard Acceleration Events: 0
+• Speeding Events (>60 km/h): 0
+• Time Spent Idle: 201 data points
+• Time Spent Moving: 2435 data points
+
+SPEED DISTRIBUTION
+------------------
+• Low Speed (0-20 km/h): 1796 points (68.1%)
+• Medium Speed (21-50 km/h): 840 points (31.9%)
+• High Speed (>50 km/h): 0 points (0.0%)
+
+DRIVING SCORE
+-------------
+Overall Driving Score: 68.0/100 (Needs Improvement)
+
+RECOMMENDATIONS
+---------------
+• Try to anticipate traffic and brake more gradually
+
+Route coordinates saved for mapping purposes.
+GPS Data Range: 18.553713 to 18.574169 (Lat)
+                73.906395 to 73.955650 (Lon)
